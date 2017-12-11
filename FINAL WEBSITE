@@ -1,3 +1,26 @@
+/*
+Catharine's Computer Addiciton Website
+Imagined, Designed, and Programmed by: 
+Date:
+Description: 
+Sources of ideas and inspiration (title, author, URL):
+ * 
+ *
+ *
+ 
+Includes code from (title, author, URL):
+ * 
+ * 
+ *
+ 
+<Reminders, you can delete:>
+<Use command + T to auto-indent your code for cleaner formatting>
+<Check that variable and function names are easy to read and understand. eg. "squareButton" vs.
+"shapeButton2">
+<If you can't remember where you found some code, Google the text to find it.>
+<Put your name in the name of this file!>
+*/
+
 var img; //img variables
 var img1;
 var img2;
