@@ -207,4 +207,3 @@ var Face = { //cotrols and defines person animation
     this.x =mouseX;
   }
 };
-
