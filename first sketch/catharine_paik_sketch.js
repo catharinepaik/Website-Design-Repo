@@ -1,3 +1,24 @@
+/*
+Catharine's Computer Addiction Website
+Imagined, Designed, and Programmed by: Catharine Paik
+12.11.2017
+This is a website with some facts and an explorable explanation for Computer Addcition.
+ 
+Includes code from (title, author, URL):
+ * p5.dom Reference createButton, Lauren McCarthy, https://p5js.org/reference/#/p5/createButton
+ * p5.dome Reference createImg, Lauren McCarthy, https://p5js.org/reference/#/p5/createImg
+ 
+Images from:
+ *http://moziru.com/images/living-room-clipart-messy-8.jpg
+ *https://htmia.com/media/catalog/product/t/e/telephone-icon-53591_1.png
+ *https://www.google.com/search?q=trees+and+grass+png&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfkKeJ24LYAhUKxWMKHQvjBeUQ_AUICigB&biw=1394&bih=689#imgrc=BRBesTVFEPF_FM:
+ *http://clipart-library.com/clipart/1161231.htm
+ 
+ 
+*/
+
+
+
 var img; //img variables
 var img1;
 var img2;
