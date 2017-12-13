@@ -1,25 +1,23 @@
 /*
-Catharine's Computer Addiciton Website
-Imagined, Designed, and Programmed by: 
-Date:
-Description: 
-Sources of ideas and inspiration (title, author, URL):
- * 
- *
- *
- 
-Includes code from (title, author, URL):
- * 
- * 
- *
- 
-<Reminders, you can delete:>
-<Use command + T to auto-indent your code for cleaner formatting>
-<Check that variable and function names are easy to read and understand. eg. "squareButton" vs.
-"shapeButton2">
-<If you can't remember where you found some code, Google the text to find it.>
-<Put your name in the name of this file!>
-*/
+ +Catharine's Computer Addiction Website
+ +Imagined, Designed, and Programmed by: Catharine Paik
+ +12.11.2017
+ +This is a website with some facts and an explorable explanation for Computer Addcition.
+ + 
+ +Includes code from (title, author, URL):
+ + * p5.dom Reference createButton, Lauren McCarthy, https://p5js.org/reference/#/p5/createButton
+ + * p5.dome Reference createImg, Lauren McCarthy, https://p5js.org/reference/#/p5/createImg
+ + 
+ +Information from:
+ +
+ +Images from:
+ + *http://moziru.com/images/living-room-clipart-messy-8.jpg
+ + *https://htmia.com/media/catalog/product/t/e/telephone-icon-53591_1.png
+ + *https://www.google.com/search?q=trees+and+grass+png&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjfkKeJ24LYAhUKxWMKHQvjBeUQ_AUICigB&biw=1394&bih=689#imgrc=BRBesTVFEPF_FM:
+ + *http://clipart-library.com/clipart/1161231.htm
+ + 
+ + 
+ +*/
 
 var img; //img variables
 var img1;
