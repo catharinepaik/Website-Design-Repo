@@ -62,7 +62,6 @@ function setup() { //home page and moving man animation and some text statements
 }
 
 function draw() { //has text true statements
-  background(255);
   if(texton===true){
     textFont(myFont, 17);
     fill(0);
